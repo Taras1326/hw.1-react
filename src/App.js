@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <h1>{name}</h1>
 
-      <p>Ласкаво просимо до нашого сайту!</p>
+      <p>Сайт тільки почали робити</p>
 
       <img
         width="700"
