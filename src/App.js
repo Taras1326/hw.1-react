@@ -25,7 +25,7 @@ function App() {
         src={
           "https://pictures.tribuna.com/image/6cff39e2-97b5-441d-8441-6c8dca6f92b9?width=1920&quality=70"
         }
-        alt={"Random image"}
+        alt={"Lamine-Yamal"}
       />
 
       <p>
